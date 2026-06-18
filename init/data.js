@@ -9,6 +9,7 @@ const sampleListings = [
         location: "Malibu",
         country: "United States",
     }
+    
 ];
 
 module.exports = { data: sampleListings };
